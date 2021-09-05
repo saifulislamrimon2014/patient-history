@@ -1,0 +1,16 @@
+#background{
+	background-image: url('assets/background.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.avatar{
+	border: 3px solid green !important;
+}
+
+::placeholder{
+	color: white !important;
+}
+html{
+	scroll-behavior: smooth !important;
+}
